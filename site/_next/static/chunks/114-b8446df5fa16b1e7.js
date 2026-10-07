@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[114],{5114:(t,c,n)=>{function e(t){return t.toLocaleString("pt-BR",{style:"currency",currency:"BRL"})}function r(t){return"".concat(t.toLocaleString("pt-BR")," km")}n.d(c,{$g:()=>e,YM:()=>r})}}]);
